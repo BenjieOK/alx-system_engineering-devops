@@ -1,2 +1,3 @@
 #!/bin/bash
-rmdir /tmp/my_first_deletion
+rmdir /tmp/my_first_directory
+file /tmp/my_first_directory
